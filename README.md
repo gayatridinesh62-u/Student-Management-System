@@ -25,4 +25,4 @@ The system allows users to:
 This project is created for learning full-stack web development and database integration.
 
 ## 👩‍💻 Author
-Gayatri Dinesh
+Gayatri
